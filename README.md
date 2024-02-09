@@ -15,7 +15,7 @@ Temperature Monitoring: The DHT11 sensor measures the temperature of the environ
 ## Components
 
 ESP32 Microcontroller: Acts as the main control unit, facilitating communication between sensors and the Telegram bot.<br>
-Buzzer: Emits alarm sounds when triggered by motion detection or manually activated.<br>
+Buzzer: Emits alarm sounds when triggered by motion detection.<br>
 HC-SR501 Motion Sensor PIR: Detects movement and triggers the alarm system.<br>
 DHT11 Temperature Sensor: Monitors ambient temperature for remote temperature tracking.
 
