@@ -10,5 +10,7 @@ This project features an ESP32-based motion sensor system designed to notify use
 
 [Click here for code!](Code.ino)
 
+## Useful links
 
+[How to use the second esp32 core](https://www.circuitstate.com/tutorials/how-to-write-parallel-multitasking-applications-for-esp32-using-freertos-arduino/)
 
