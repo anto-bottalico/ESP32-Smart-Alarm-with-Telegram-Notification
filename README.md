@@ -1,6 +1,6 @@
 # ESP32-Motion-Sensor-with-Telegram-Notification
 
-<img src="images/Motion_sensor_smart.png" alt="Motion sensor smart" style="width:400px;height:300px;">
+<img src="images/Motion_sensor_smart.png" alt="Motion sensor smart" style="width:400px;height:350px;">
 
 ## Description
 
